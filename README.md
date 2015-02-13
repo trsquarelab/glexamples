@@ -14,6 +14,8 @@ Below list of examples are available in this repository.
 
 ## Building the applications
 
+Automake is used to build the example applications.
+
 OpenGL (ofcourse) and glut should be available to build the source code.
 
 To build the source code follow following steps,
