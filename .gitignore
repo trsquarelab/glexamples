@@ -68,3 +68,18 @@ config/
 config.log
 config.status
 
+#
+# Applications
+#
+src/blur
+src/color_picker
+src/color_saturation
+src/compositor
+src/fog
+src/lighting
+src/lighting_perpixel
+src/multi_texture
+src/point_sprites
+src/texture
+src/triangles
+

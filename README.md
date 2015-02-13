@@ -21,3 +21,7 @@ To build the source code follow following steps,
 * ./configure
 * make
 
+## Executing the applications
+
+Example applications should be run from the src folder.
+
