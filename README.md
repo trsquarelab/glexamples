@@ -27,4 +27,3 @@ To build the source code follow following steps,
 
 Example applications should be run from the src folder.
 
-For more documentation visit http://chikkooos.blogspot.jp
