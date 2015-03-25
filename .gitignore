@@ -82,4 +82,5 @@ src/multi_texture
 src/point_sprites
 src/texture
 src/triangles
+src/textureregion
 
