@@ -11,6 +11,7 @@ Below list of examples are available in this repository.
 * lighting
 * texture and multi texture
 * point sprites
+* texture region
 
 ## Building the applications
 
