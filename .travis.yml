@@ -2,6 +2,7 @@ os:
  - linux
 
 before_script:
+ - mkdir -p config
  - ./autogen.sh
  - ./configure
  
