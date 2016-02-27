@@ -3,6 +3,7 @@ os:
 
 before_script:
  - mkdir -p config
+ - mkdir -p m4
  - ./autogen.sh
  - ./configure
  
